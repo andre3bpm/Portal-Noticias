@@ -90,8 +90,9 @@ body {
 
 .logo {
     width: 230px;
-    height: 95px;
+    height: 90px;
     float: left;
+    margin-top: 5px;
 }
 
 .topo2 .banner {
