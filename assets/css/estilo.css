@@ -59,6 +59,8 @@
             width: 110px;
             height: 26px;
             outline: 0;
+            padding: 0;
+            border: 0;
         }
         
         .toporight a {
