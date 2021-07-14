@@ -155,3 +155,15 @@ body {
 .submenuitem:hover {
     background-color: #ff5555;
 }
+
+.ultimasnoticias {
+    height: 50px;
+}
+
+.ultimasnoticiasint {
+    width: 100%;
+    max-width: 1040px;
+    height: 50px;
+    margin: auto;
+    background-color: #999;
+}
