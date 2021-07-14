@@ -140,13 +140,18 @@ body {
 
 .submenu {
     width: 150px;
-    background-color: #000;
+    background-color: #ff0000;
     position: absolute;
     display: none;
 }
 
 .submenuitem {
-    width: 150px;
+    width: 140px;
     height: 30px;
     line-height: 30px;
+    padding-left: 10px;
+}
+
+.submenuitem:hover {
+    background-color: #ff5555;
 }
