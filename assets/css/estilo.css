@@ -243,10 +243,6 @@ body {
     border-bottom: 1px solid #ccc;
 }
 
-.noticiaitem:last-child {
-    border: none;
-}
-
 .noticia_item a {
     text-decoration: none;
     color: #000;
