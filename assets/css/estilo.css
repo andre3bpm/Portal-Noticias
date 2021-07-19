@@ -248,14 +248,12 @@ body {
 
 .slideshow {
     height: 335px;
-    background-color: #CCC;
     overflow: hidden;
 }
 
 .slideshowarea {
     width: 100000px;
     height: 335px;
-    background-color: #DDD;
 }
 
 .slide {
